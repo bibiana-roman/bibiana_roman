@@ -10,3 +10,4 @@ persona.nombre = "Andres"
 persona.edad = 38
 persona.estatura = 168     
 print("Nombre: ",persona.nombre, " Edad: ",persona.edad, " Estatura: ",persona.estatura)
+print("Nombre: ",persona.nombre, " Edad: ",persona.edad, " Estatura: ",persona.estatura)
